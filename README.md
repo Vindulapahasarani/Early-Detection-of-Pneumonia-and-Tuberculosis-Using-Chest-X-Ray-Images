@@ -87,12 +87,12 @@ Results
 
 Pneumonia Model:
 
-Validation Accuracy: ~90%
+Validation Accuracy: 90%
 Trained on 5,800+ chest X-rays.
 
 Tuberculosis Model:
 
-Validation Accuracy: ~85%
+Validation Accuracy: 85%
 Trained on 3,500+ chest X-rays.
 
 Future Enhancements
@@ -101,9 +101,10 @@ Implement Grad-CAM visualization for model interpretability.
 Deploy the application on cloud platforms like Heroku or AWS for global accessibility.
 Improve accuracy by using ensemble models.
 
-Contributors
+Contributor
 R.D.V.Pahasarani
 Role: Developer
+
 Contact: 
 email - vindulapahasarani@gmail.com
 
