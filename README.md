@@ -66,7 +66,7 @@ The model predicts the likelihood of the selected disease(s) and displays the re
 
 How to Run the Project
 1.Clone the repository:
-git clone https://github.com/your-username/early-detection-xray.git
+git clone https://github.com/Vindulapahasarani/early-detection-xray.git
 cd early-detection-xray
 
 2.Install dependencies:
