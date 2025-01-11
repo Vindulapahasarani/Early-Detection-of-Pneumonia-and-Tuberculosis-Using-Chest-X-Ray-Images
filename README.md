@@ -85,15 +85,26 @@ http://127.0.0.1:5000
 
 Results
 
+![2](https://github.com/user-attachments/assets/7d10d5be-0e4a-456b-8dda-65040b98187d)
+
 Pneumonia Model:
 
 Validation Accuracy: 90%
 Trained on 5,800+ chest X-rays.
 
+![3](https://github.com/user-attachments/assets/a1b42565-2ef3-428c-9c66-0db02a86b03a)
+
+
 Tuberculosis Model:
 
 Validation Accuracy: 85%
 Trained on 3,500+ chest X-rays.
+
+![4](https://github.com/user-attachments/assets/f8377e1b-9a75-4f8f-8b92-33941a722b10)
+
+
+![5](https://github.com/user-attachments/assets/e128d458-c3b2-4b03-97d8-50a3dadd10bc)
+
 
 Future Enhancements
 Add support for additional diseases.
